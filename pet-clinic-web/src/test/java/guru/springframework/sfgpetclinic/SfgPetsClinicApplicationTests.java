@@ -6,7 +6,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SfgPetsClinicApplicationTests {
 
     @Test
-
     void contextLoads() {
     }
 
