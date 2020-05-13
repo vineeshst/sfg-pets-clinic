@@ -18,7 +18,6 @@ public class Person extends BaseEntity{
         super(id);
         this.firstName = firstName;
         this.lastName = lastName;
-
     }
     @Column(name = "first_name")
     private String firstName;

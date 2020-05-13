@@ -21,7 +21,6 @@ public class Owner extends Person {
         this.telephone = telephone;
         if(pets != null) {
             this.pets = pets;
-
         }
     }
     @Column(name = "address")
